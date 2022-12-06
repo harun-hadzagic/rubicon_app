@@ -1,0 +1,17 @@
+.searchBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+input {
+  width: 10rem;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  transition: 0.4s;
+}
+input:focus {
+  transition: 0.4s;
+  width: 25rem;
+}
