@@ -1,3 +1,11 @@
+This application was build as an assignment for a Frontend engineer job at RUBICON.
+React.js was used as a framework to build this app.
+I have taken the liberty to build the app for you in order to provide a quick way to take a look at it. The app is hosted on Google's Firebase and you can check it out at his link: https://rubiconapp-791a5.web.app
+
+Dont forget to run npm install before running or building the app on your local machine.
+
+Thank you for reading this and happy coding :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
